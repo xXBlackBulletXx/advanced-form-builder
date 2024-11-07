@@ -1,0 +1,7 @@
+{
+  "typescript.preferences.autoImportFileExcludePatterns": [
+    "**/node_modules/@radix-ui/*",
+    "**/dist"
+  ],
+  "prettier.enable": true
+}

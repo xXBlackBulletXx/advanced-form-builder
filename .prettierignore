@@ -1,0 +1,6 @@
+**/.next
+**/.vscode
+**/.husky
+.prettierignore
+yarn.lock
+.gitignore
